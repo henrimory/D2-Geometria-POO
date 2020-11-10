@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ba67932-5ce6-4ea9-82b9-a7d3f48c9531" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c8AfHRMYiYyHpEq7o3ZAuw0Mr5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Desafio1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="D2 Geometria POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Avaliacao" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Avaliacao/Desafio1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="circulo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="D2 Geometria POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/circulo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="D2 Geometria POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="D2 Geometria POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main1" />
+        <item itemvalue="Python.Desafio1" />
+        <item itemvalue="Python.circulo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ba67932-5ce6-4ea9-82b9-a7d3f48c9531" name="Default Changelist" comment="" />
+      <created>1589899947264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589899947264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="187" key="FileChooserDialogImpl" timestamp="1591140032975">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="-860" y="-136" key="FileChooserDialogImpl/0.0.1366.738/-1280.-388.1280.994@-1280.-388.1280.994" timestamp="1591066358638" />
+    <state x="448" y="187" key="FileChooserDialogImpl/0.0.1366.738/-1280.-388.1280.994@0.0.1366.738" timestamp="1591140032975" />
+    <state width="1259" height="383" key="GridCell.Tab.0.bottom" timestamp="1591040799964">
+      <screen x="-1280" y="-388" width="1280" height="994" />
+    </state>
+    <state width="1259" height="383" key="GridCell.Tab.0.bottom/0.0.1366.738/-1280.-388.1280.994@-1280.-388.1280.994" timestamp="1591040799964" />
+    <state width="1345" height="266" key="GridCell.Tab.0.bottom/0.0.1366.738/-1280.-388.1280.994@0.0.1366.738" timestamp="1590006723947" />
+    <state width="1259" height="383" key="GridCell.Tab.0.center" timestamp="1591040799963">
+      <screen x="-1280" y="-388" width="1280" height="994" />
+    </state>
+    <state width="1259" height="383" key="GridCell.Tab.0.center/0.0.1366.738/-1280.-388.1280.994@-1280.-388.1280.994" timestamp="1591040799963" />
+    <state width="1345" height="266" key="GridCell.Tab.0.center/0.0.1366.738/-1280.-388.1280.994@0.0.1366.738" timestamp="1590006723947" />
+    <state width="1259" height="383" key="GridCell.Tab.0.left" timestamp="1591040799963">
+      <screen x="-1280" y="-388" width="1280" height="994" />
+    </state>
+    <state width="1259" height="383" key="GridCell.Tab.0.left/0.0.1366.738/-1280.-388.1280.994@-1280.-388.1280.994" timestamp="1591040799963" />
+    <state width="1345" height="266" key="GridCell.Tab.0.left/0.0.1366.738/-1280.-388.1280.994@0.0.1366.738" timestamp="1590006723947" />
+    <state width="1259" height="383" key="GridCell.Tab.0.right" timestamp="1591040799963">
+      <screen x="-1280" y="-388" width="1280" height="994" />
+    </state>
+    <state width="1259" height="383" key="GridCell.Tab.0.right/0.0.1366.738/-1280.-388.1280.994@-1280.-388.1280.994" timestamp="1591040799963" />
+    <state width="1345" height="266" key="GridCell.Tab.0.right/0.0.1366.738/-1280.-388.1280.994@0.0.1366.738" timestamp="1590006723947" />
+    <state x="359" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1591140011474">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="359" y="238" key="com.intellij.ide.util.TipDialog/0.0.1366.738/-1280.-388.1280.994@-1280.-388.1280.994" timestamp="1591066364189" />
+    <state x="359" y="238" key="com.intellij.ide.util.TipDialog/0.0.1366.738/-1280.-388.1280.994@0.0.1366.738" timestamp="1591140011474" />
+    <state x="-918" y="21" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590722116001">
+      <screen x="-1280" y="-388" width="1280" height="994" />
+    </state>
+    <state x="-918" y="21" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.738/-1280.-388.1280.994@-1280.-388.1280.994" timestamp="1590722116001" />
+  </component>
+</project>
